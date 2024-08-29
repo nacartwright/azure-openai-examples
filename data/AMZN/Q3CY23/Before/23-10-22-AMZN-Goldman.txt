@@ -1,0 +1,24 @@
+Goldman Sachs Backs Amazon Stock Despite Investor Concerns
+October 22, 2023 — 11:45 am EDT
+
+Written by Marty Shtrubel for TipRanks ->
+
+Amazon (NASDAQ:AMZN) has emerged as a compelling choice for investors this year, with its shares soaring 49%. This surge in investor optimism was driven, in part, by better-than-expected Q2 margins in the North American segment and favorable comments regarding the trends seen in Amazon Web Services (AWS).
+
+However, that positive sentiment has turned more cautious recently. According to Goldman Sachs analyst Eric Sheridan, concerns have arisen, including the stability of cloud computing trends in Q3 (rather than a reacceleration), emerging competition from cross-border eCommerce platforms like Temu and TikTok Shop, increased holiday hiring, and a recent uptick in energy prices.
+
+
+Addressing these issues, an analysis of the cloud computing sector for September indicates that AWS revenue patterns remained relatively consistent, and it appears that investors had anticipated a more significant upturn following the company's Q2 earnings call. “Accordingly,” says the 5-star analyst, “we believe that investor expectations for near-term AWS revenue growth have come down in the last month, which we view as a contributor to the pullback in AMZN shares.”
+
+It's worth mentioning here that following the Q2 earnings release, analysts' predictions for AWS Q3 revenue saw an upward adjustment for the first time in at least three quarters. Currently, consensus anticipates a modest acceleration in Q3 and a more substantial one in Q4. “We model stable AWS revenue growth in Q3 over Q2 (at 12% YoY) and reacceleration in Q4 (+14% YoY) on easier comps, a lower pace of optimization, and growth in new workloads,” says Sheridan.
+
+As for the growing competition, Sheridan thinks that Temu has a “moderate overlap” with Amazon’s US users and a bigger effect on retailers that are “more exposed to the lower-end consumer.” The launch of TikTok Shop’s mid September US launch, though, is an event that will “warrant monitoring” over the coming months.
+
+On to the hiring issue, on which Amazon has said it will add 250,000 holiday workers this year, 100,000 more than those hired last year and investors are fearing “pressure on AMZN’s retail margin” in Q4. “We instead believe that incremental hiring could be a positive read-across on AMZN’s internal demand forecast into the holidays,” counters Sheridan.
+
+Likewise, heading into the Q3 print, the rise in energy prices is looked at as being a “headwind to retail margins,” but Sheridan has a retort to that too. “We would encourage investors to instead focus on the broader margin recapture story in AMZN’s North America segment (relative to pre-COVID) as we expect margins to continue benefiting from operating leverage against a more streamlined fulfillment/shipping infrastructure over the next several quarters,” the Goldman analyst said.
+
+
+All told, Sheridan remains firmly in Amazon’s corner, reiterating a Buy rating on the shares along with a $175 price target, suggesting shares will post growth of ~40% in the months ahead. (To watch Sheridan’s track record, click here)
+
+On the Street, only analyst remains skeptical regarding Amazon’s prospects but all 41 others are positive, resulting in a Strong Buy consensus rating. The Street’s average target of $175.38 is practically the same as Sheridan's. (See Amazon stock forecast)

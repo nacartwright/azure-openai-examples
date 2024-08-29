@@ -1,0 +1,121 @@
+Amazon stock forecast and price prediction
+Wayne Duggan
+
+Verified By
+Farran Powell
+
+
+BLUEPRINT
+
+Updated 2:40 p.m. UTC Oct. 27, 2023
+
+Editorial Note: Blueprint may earn a commission from affiliate partner links featured here on our site. This commission does not influence our editors' opinions or evaluations. Please view our full advertiser disclosure policy.
+
+Key Points
+Amazon is the market leader in e-commerce and cloud services.
+Amazon’s growth and profit numbers have recently been negatively impacted by heavy investments in fulfillment infrastructure.
+AI, advertising and cloud services could help Amazon’s growth rebound in the coming years.
+Amazon has been one of the best-performing growth stocks of all time since its initial public offering in 1997.
+
+The e-commerce company has a long history of innovation and successful investing in game-changing technologies. Amazon’s next major growth opportunity may come from its expanding advertising business or its investments in artificial intelligence.
+
+Amazon stock price
+Amazon’s share price has stalled over the past three years, and its growth has shrunk significantly.
+
+Amazon’s stock price dropped nearly 50% in 2022, its worst annual performance since the dot-com bubble burst in 2000. The famous e-commerce retailer hasn’t set a new all-time high since July 2021. But investors who bought the dip in Amazon in 2022 have been handsomely rewarded up to this point.
+
+Shares for the Seattle-based company have come roaring back this year, gaining roughly 50% year to date as investors are optimistic the company has transitioned to the early innings of a multiyear turnaround story that could significantly expand profits and rekindle revenue growth.
+
+Amazon has also been pouring money into expanding its fulfillment network in recent years and is now shifting its priorities back to maximizing profits.
+
+Amazon at a glance
+Amazon was founded as an online bookstore by Jeff Bezos in the mid-1990s. But the company has expanded and changed its business several times over the years to capture some of the biggest growth trends in Silicon Valley.
+
+In the early 2000s, Amazon branched out its online marketplace beyond books to include various products, such as music and clothing.
+
+The company launched its Amazon Prime loyalty program in 2005, and there are now more than 200 million global Prime members.
+
+Amazon offers its Prime Video streaming service to Prime members, and Amazon is also the parent company of the Twitch video game streaming platform. The e-commerce company sells electronic devices, including its Kindle electronic reader and Echo smart speaker, which features Amazon’s Alexa virtual assistant.
+
+In June 2017, Amazon acquired Whole Foods and expanded further into the brick-and-mortar retail world by opening physical stores to sell groceries and other merchandise.
+
+Amazon launched its Amazon Web Services (AWS) cloud computing business in 2006, giving the company a huge first-mover advantage over cloud services competitors. In 2022, AWS generated an impressive $80.1 billion in revenue, up 29% compared to 2021.
+
+Amazon also has its own shopping holiday: Prime Day. Digital Commerce 360 estimates Amazon generated roughly $12.9 billion in worldwide revenue over the two-day Amazon Prime event in 2023.
+
+How has Amazon stock performed?
+For most of its existence, Amazon has been one of the top-performing stocks in history. In fact, from its 1997 IPO to its all-time high in 2021, Amazon’s market capitalization grew from just $300 million to nearly $1.9 trillion.
+
+Unfortunately, Amazon fell victim to shrinking technology sector valuations in 2022 as the Federal Reserve aggressively raised interest rates to combat inflation.
+
+Rising rates sent investors fleeing from growth stocks and other risky assets. At the same time, Amazon’s revenue growth shrank dramatically.
+
+After reporting annual revenue growth of between 20% and 37% from 2015 through 2021, Amazon’s growth dropped to under 10% in 2022. To make matters worse, Amazon’s heavy investments resulted in a net loss of $2.7 billion for the year. Shares finished 2022 down nearly 50%, and the stock lost a record $1 trillion in market cap from its 2021 peak to its 2022 lows.
+
+Fortunately, Amazon found its stride once again in 2023 as fears surrounding inflation and a U.S. recession have subsided. In addition, the popularity of OpenAI’s AI chatbot ChatGPT has made AI technology one of the best-performing investment themes of the year on Wall Street. Amazon’s AWS is also in a prime position to benefit from the trend.
+
+In April 2023, Amazon launched AI services Bedrock and CodeWhisperer on AWS, and it is developing its own line of AI chips.
+
+Opportunities and obstacles facing Amazon
+Amazon is well positioned to continue to outperform moving forward. That said, it also faces several potential stumbling blocks ahead.
+
+There is a massive demand for AI cloud offerings, which could be a tremendous tailwind for AWS growth in the coming years.
+
+Amazon’s AWS and advertising businesses also have some of the highest margins among Amazon’s segments, and as both businesses grow, they will help boost the company’s overall margins and profitability. In addition, Amazon’s community of Prime members creates opportunities for the company to cross-sell and upsell any new products and services it rolls out in the coming years.
+
+Strengths
+Tremendous opportunities to leverage AI technology in AWS offerings.
+Highest-growth businesses (AWS and advertising) are also high-margin businesses — that should help overall margins expand in the next several years.
+Amazon Prime membership fees generate high-margin revenue. Prime membership creates powerful network effects and cross-selling opportunities.
+Weaknesses
+Large technology companies face increasing scrutiny from regulators and politicians, particularly regarding anti-competitive practices and customer data collection.
+Ongoing investments in fulfillment, delivery, AWS and AI technology will continue to weigh on profits.
+Amazon shares trade at a full valuation.
+Unfortunately, Amazon and other Big Tech companies will likely continue to face intense regulatory scrutiny, such as the recent Federal Trade Commission action against Amazon tied to the company’s aggressive Prime membership enrollment practices.
+
+In addition, Amazon’s AI-based products and services will not be cheap to develop, and AI investment will continue to eat into Amazon’s bottom line. Finally, Amazon’s stock trades at a forward earnings multiple of around 35, suggesting additional valuation upside might be limited.
+
+What can we expect from Amazon in 2024?
+Analysts are generally optimistic about Amazon’s business and stock price in 2024. The analysts covering Amazon are projecting full-year adjusted earnings per share of $2.96 in 2024, up from $2.06 in 2023. In addition, AMZN analysts are calling for 11.8% revenue growth in 2024.
+
+Bank of America analyst Justin Post said Amazon is demonstrating the inherent leverage of its online retail model, including high-margin, third-party commissions and advertising sales.
+
+“With seemingly another year of margin improvement ahead, we think growing margins can
+
+drive further multiple expansion(s),” Post said.
+
+AWS layoffs have also helped improve the segment’s margins and position the cloud division well heading into 2024. Post predicts an acceleration in AWS revenue growth will be the next bullish catalyst for Amazon’s stock.
+
+“We think Amazon is well positioned to capitalize on the global growth of e-commerce and other secular trends such as cloud computing, online advertising and connected devices,” Post said. Bank of America has a “buy” rating and $168 price target for Amazon.
+
+CFRA analyst Arun Sundaram said several new AWS deals could jump-start Amazon’s cloud revenue growth heading into 2024.
+
+“AWS deal volume will be lumpy (quarter-over-quarter]) especially since most companies are still in the idea generation phase of (generative AI) adoption,” Sundaram said.
+
+CFRA has a “buy” rating and $180 price target for AMZN stock.
+
+The analysts covering AMZN stock have an average price target of $175, suggesting double-digit upside over the next 12 months. However, investors should always conduct their own research before making important investment decisions.
+
+What can we expect in the coming years?
+Heavy investments in fulfillment and AI technology, coupled with more than 27,000 layoffs in 2023, have Amazon positioned to enter a new cycle of profit growth in 2024 and beyond.
+
+Investors should also expect Amazon’s advertising business to have more of a positive financial impact in the years ahead.
+
+Sundaram said the cloud computing cycle has troughed, e-commerce profitability is improving, and Amazon’s advertising business is growing at an impressive clip.
+
+“With more e-commerce efficiencies left to be unlocked, along with faster growth in higher-margin business streams like AWS and advertising, we believe there is significant operating profit upside over the next several years versus the current consensus,” he said.
+
+Morningstar analyst Dan Romanoff said AWS and advertising are key to the long-term Amazon bull thesis.
+
+“We expect these areas to be the main growth drivers over the next five years. This is critical, as each of these segments drives higher margins than the corporate average, which in turn should allow both operating profit and EPS to outgrow revenue as margins continue to expand,” Romanoff said.
+
+Morningstar has a “buy” rating and $155 fair value estimate for Amazon.
+
+Investors should expect Amazon to maintain its dominant position in online retail sales and cloud services for the foreseeable future. But they should monitor market share trends to stay aware of any real competitive threats.
+
+Investors should also watch to see how well Amazon’s AI offerings perform, especially compared with those offered by cloud services competitor and Open AI investor Microsoft (MSFT). Finally, expect Amazon to take action to address parts of its business that have yet to live up to expectations in recent years, such as sales of groceries and luxury goods.
+
+Frequently asked questions (FAQs)
+
+Is Amazon a buy or sell right now?
+Among the Wall Street analysts covering AMZN stock, 53 analysts have “buy” or “outperform” ratings and not a single analyst has a “sell” or “underperform” rating. However, with the stock already up roughly 50% year to date, investors should not be surprised if Amazon takes a breather soon.

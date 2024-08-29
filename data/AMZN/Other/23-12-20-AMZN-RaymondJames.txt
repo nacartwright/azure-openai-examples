@@ -1,0 +1,104 @@
+‘Load Up,’ Says Raymond James About These 2 ‘Magnificent Seven’ Stocks
+Michael Marcus
+Michael Marcus
+Dec 20, 2023, 10:20 PM
+AMZN
+0.74%
+9
+
+META
+1.74%
+9
+
+
+Share
+
+A+
+
+A-
+The tech sector has picked up more than its fair share of analyst attention, and rightly so – high tech has been sitting in the driver’s seat of the digital world, and in many ways is setting our economic course for the near future.
+
+
+Top analyst Josh Beck, writing from Raymond James, has gathered together a group of tech stocks he calls the ‘Neural Net,’ a set of companies involved in digital content creation, AI, e-commerce, and social media, in varying combinations. He sees these names as the center of the tech universe.
+
+
+As we delve into Beck’s insights, it becomes evident that the ‘Neural Net’ represents a promising landscape for tech investors. Beck’s projections for 2024 are optimistic, driven by a forecasted low-teens growth in digital ad spending, alongside factors such as improved ad stack technology, increased ad-load on emerging platforms, and the growing contribution of GenAI ARR. According to Beck, these factors are set to not only accelerate growth but also enhance margins, potentially leading to multiple expansion.
+
+
+Two of Beck’s calls come from the so-called ‘Magnificent Seven,’ the mega-cap tech giants that have been supporting the past year’s NASDAQ gains. Beck tells us that there is still time to ‘load up’ on both Amazon (NASDAQ:AMZN) and Meta Platforms (NASDAQ:META).
+
+
+And he’s not alone in showing confidence in these names. According to TipRanks, the world’s biggest database of analysts and stock market research, both of these tech giants are also rated as ‘Strong Buys’ by the analyst consensus. Let’s see why they are drawing plaudits across the board.
+
+
+Don’t miss
+
+Insiders Pour Millions Into These 3 Buy-Rated Stocks ⁠— Here’s Why You Might Want to Ride Their Coattails
+‘We Are Bullish on Cybersecurity’: Susquehanna Recommends 3 Stocks to Consider
+Jefferies Says Solar Stocks Offer a Positive Risk-Reward — Here Are 2 Names to Take Advantage
+
+Amazon
+
+
+We’ll start with a look at Amazon, the world leader in online retail. We all know the history – how Amazon started in the 90s, billing itself as the online book store; how it managed to survive the dot-com bubble; how it expanded afterward, branching eventually into every possible segment of e-commerce. Today, online shoppers can find just about anything for purchase on Amazon.com. The scale of the company’s online retail business was truly enormous – in 2022, Amazon’s gross merchandise value reached $693 billion.
+
+
+What makes Amazon truly impressive, however, is that it didn’t stop with online retail. The company has its hands in multiple pots and offers its customers a wide array of online services. These include Amazon Web Services cloud computing, or AWS; a subscription TV streaming service; audiobooks; and home automation, featuring the now-famous Alexa. The company’s online services are supported by a vast array of brick-and-mortar warehouses, packing facilities, and a fleet of delivery vans and trucks. Customers can even order their groceries online through Amazon.
+
+
+It is no wonder, then, that Amazon is one of the world’s largest publicly traded companies. The company’s market cap currently stands at $1.57 trillion, and the shares have gained approximately 80% this year.
+
+
+Amazon has brought solid results for investors, which were visible in the company’s last quarterly report, the 3Q23 release. While international retail, up 16% year-over-year, was the leader in the firm’s overall 13% year-over-year revenue increase, Amazon Web Services, the AI-driven cloud computing subscription service, was also a notable gainer. AWS was up 12% from 3Q22, bringing in $23.1 billion in revenue. The company’s quarterly total revenue was $143.1 billion, up 13% year-over-year and $1.5 billion better than anticipated. At the bottom line, Amazon realized an EPS of 94 cents per share, beating the forecast by 35 cents per share.
+
+
+Writing on Amazon for Raymond James, top analyst Josh Beck – who is counted by TipRanks among the top 2% of all Wall Street analysts – sees AWS as providing the chief long-term support for Amazon. Beck has written of the stock, “Our ‘GenAI laggard-to-leader’ thesis is premised on improving AWS trends following 1 year-plus of optimization headwinds combined with a shifting narrative around growing AWS GenAI stack adoption, alongside sustained fulfillment efficiency (regionalization) and advertising (commerce media network PLA/DSP) gains with a soft-ish landing macro backdrop.”
+
+
+Looking at the coming year, and Amazon’s prospects, Beck adds, “The narrative on GenAI for much of the last year has been centered around perceived wave 1 infra/FM winners like NVDA/MSFT yet in ’24 we expect the focus to shift towards commercialization efforts as the adoption curve marches towards the early-majority (~15% of users) vs current levels likely in the LSD range and we see AWS particularly well positioned.”
+
+
+Beck quantifies his stance on AMZN by restarting his coverage with a Strong Buy rating and a $185 price target that suggests a one-year upside potential of ~22%. (To watch Beck’s track record, click here)
+
+
+Beck’s colleagues on Wall Street are also in agreement. AMZN stock boasts a Strong Buy consensus rating, backed by no fewer than 43 recent positive recommendations. The stock has a current trading price of $152.12 and its $179.60 average target price implies an upside of 18% on the one-year horizon. (See Amazon stock forecast)
+
+
+
+
+Meta Platforms
+
+
+The second Raymond James pick we’ll look at is Meta, most famous as the parent company of Mark Zuckerberg’s Facebook. In addition to this flagship, Meta also owns Instagram, WhatsApp, and Messenger. Social media, with its ability to reach billions, hasn’t just forever altered the way we communicate online; it has also altered the ways we conduct financial transactions, especially through advertising and commerce. Meta has been a leader in this shifting environment since it started out as just Facebook nearly two decades ago.
+
+
+In recent years, Meta has been facing some notable headwinds. The company’s core platform, Facebook, is sometimes seen as ‘old,’ and in fact, its core audience is noticeably older than the Instagram-Twitter set. The company has been working to counter this perception and started earlier this year by streamlining operations. During the COVID pandemic, Meta had allowed its workforce to expand; earlier this year, the company concluded a series of layoffs that saw it cut loose some 20,000 employees in a move to streamline its operations.
+
+
+At the same time, Meta made moves to improve the reach of its flagship platform. Facebook and Instagram users have been sharing ‘reels,’ short videos, across platforms for some time now and even sending them through Messenger. In addition, Meta has launched several AI initiatives, including translation operations for speech-to-text, speech-to-speech, text-to-speech, and text-to-text in up to 100 languages. It’s an ambitious project, but one that may be essential for a globe-spanning set of social media platforms. Looking ahead, Meta plans to incorporate augmented, virtual, and mixed reality technology into its platforms and move beyond the existing 2-dimensional screen.
+
+
+In the meantime, Meta has been showing modest increases in its user base. In its 3Q23 earnings release, Meta reported 3.14 billion daily active people (DAP) across its family of platforms for September 2023; this was up 7% year-over-year. For Facebook, the company’s largest platform, the daily active user (DAU) number came to 2.09 billion, up 5% year-over-year.
+
+
+On the financial side, Meta’s Q3 revenue came to $34.15 billion, up 23% year-over-year and some $700 million above expectations. On the bottom line, the company’s $4.39 per diluted share was up an impressive 168% year-over-year and beat the forecast by 76 cents per share. Meta’s stock has gained some 190% so far in 2023, and the company’s $900 billion market cap makes it the sixth-largest firm in the public trading markets.
+
+
+For Raymond James’ Beck, Meta’s moves to improve the social platforms, the ways its users interface with it, and the ways its users interact with each other are the key points. He writes, “Our ‘Behind the scenes AI’ thesis is based on Meta internalization of modern AI/ML (e.g., DLRM) frameworks and rising Reels/C2M adoption contributing to a multi-year platform engagement tailwind amplified by ad campaign automation tool adoption boosting ROAS, enabling sustained ad budget share gains. We expect elevated NT AI investment intensity to ease in the years ahead, paving the way for improved incremental margins with an attractive valuation (e.g., current ’25 P/E similar to S&P 500) amid a soft-ish landing scenario.”
+
+
+Going forward from here, Beck sees fit to put a Strong Buy rating on META shares, along with a $425 price target that shows his confidence in a gain of ~22% on the one-year horizon.
+
+
+Meta’s stock has a Strong Buy from the analyst consensus, as well; this rating rests on 38 recent reviews that break down to a lopsided 37 Buys against just 1 Hold. The stock’s trading price of $349.28 and its average target price of $388.43 together suggest a 12-month upside of just under 11%. (See Meta stock forecast)
+
+
+
+
+To find good ideas for stocks trading at attractive valuations, visit TipRanks’ Best Stocks to Buy, a tool that unites all of TipRanks’ equity insights.
+
+
+Disclaimer: The opinions expressed in this article are solely those of the featured analysts. The content is intended to be used for informational purposes only. It is very important to do your own analysis before making any investment.
+
+
+Continue Reading
